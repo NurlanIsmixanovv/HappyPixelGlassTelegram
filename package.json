@@ -1,0 +1,17 @@
+{
+  "name": "happy-pixel-glass-telegram",
+  "version": "1.0.0",
+  "description": "Happy Pixel Glass Telegram Version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Tiny Games Studio",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-telegram-bot-api": "^0.66.0",
+    "telegraf": "^4.16.3"
+  }
+}
